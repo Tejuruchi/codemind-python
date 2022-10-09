@@ -6,13 +6,3 @@ if b.endswith(a):
     print("Automorphic Number")
 else:
     print("Not an Automorphic Number")
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
